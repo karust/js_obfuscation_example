@@ -1,0 +1,14 @@
+{
+  "name": "js_obfuscation_example",
+  "version": "1.0.0",
+  "description": "- Obfuscate `input.js`:",
+  "main": "obfuscate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.24.4"
+  }
+}
